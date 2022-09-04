@@ -1,4 +1,4 @@
-# LogisticRegression
+# Logistic Regression
 
 # Mr. John Hughes would like you to create a Logistical Regression model and associated ROC/AUC curve for his cancer.csv dataset in order to predict if the patient has cancer based the following variables:
 
