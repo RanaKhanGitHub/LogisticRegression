@@ -2,7 +2,7 @@
 
 # Mr. John Hughes would like you to create a Logistical Regression model and associated ROC/AUC curve for his cancer.csv dataset in order to predict if the patient has cancer based the following variables:
 
-#Independent Variables
+##Independent Variables
 ID - ID number
 Clump Thickness - 1-10
 UofCSize - Uniformity of Cell Size 1-10 UofShape - Uniformity of Cell Shape 1-10 Marginal Adhesion - 1-10
@@ -17,8 +17,8 @@ Note: ID will not be used and will need to be dropped prior to building your mod
 
 
 #The Ask:
-Rational Statement (summary of the problem or problems to be addressed by the PPT)
-Present the Learning Curve for the Logistical Regression standard model and identify two (2) insights
-Present and Explain three (3) key insights from the classification report metrics (i.e. Precision, Recall, F1) for the Optimized Logistical Regression Model
-Present and Explain two (2) key insights from ROC/AUC Curve (Optimized Model)
-State and explain two (2) recommendations for Mr. John Hughes for next steps
+#Rational Statement (summary of the problem or problems to be addressed by the PPT)
+#Present the Learning Curve for the Logistical Regression standard model and identify two (2) insights
+#Present and Explain three (3) key insights from the classification report metrics (i.e. Precision, Recall, F1) for the Optimized Logistical Regression Model
+#Present and Explain two (2) key insights from ROC/AUC Curve (Optimized Model)
+#State and explain two (2) recommendations for Mr. John Hughes for next steps
