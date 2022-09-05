@@ -2,7 +2,7 @@
 
 Mr. John Hughes would like you to create a Logistical Regression model and associated ROC/AUC curve for his cancer.csv dataset in order to predict if the patient has cancer based the following variables.
 
-#In dependent Variables
+# Independent Variables
 ID - ID number
 Clump Thickness - 1-10
 UofCSize - Uniformity of Cell Size 1-10 UofShape - Uniformity of Cell Shape 1-10 Marginal Adhesion - 1-10
